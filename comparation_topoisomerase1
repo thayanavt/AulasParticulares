@@ -1,0 +1,21 @@
+Position|horse|rat
+14	|G    |A
+
+Position|dog|hamster
+96	|V    |I
+
+Position|dog|rat
+43	|E    |D
+
+Position|horse|horse-mutacao
+704	|E    |L
+
+Position|rat|rat-mutacao
+720	|T    |E
+
+Position|hamster|hamster-mutacao
+365	|G    |E
+
+Position|dog|dog-mutacao
+397	|V    |K
+
